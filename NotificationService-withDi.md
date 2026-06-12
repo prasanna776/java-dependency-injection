@@ -200,3 +200,4 @@ No changes are required in NotificationManager.
 ## Conclusion
 
 Dependency Injection allows dependencies to be provided from outside the class instead of creating them inside the class. This makes the application flexible, maintainable, and scalable.
+## thanks
